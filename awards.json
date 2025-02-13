@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Best Motion Picture of the Year",
+    "nominees": [
+      {
+        "name": "Wicked",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "people": [
+          {
+            "name": "Marc Platt",
+            "url": "https://www.imdb.com/name/nm0686887/"
+          }
+        ]
+      },
+      {
+        "name": "The Substance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt17526714/",
+        "people": [
+          {
+            "name": "Coralie Fargeat",
+            "url": "https://www.imdb.com/name/nm0267287/"
+          },
+          {
+            "name": "Tim Bevan",
+            "url": "https://www.imdb.com/name/nm0079677/"
+          },
+          {
+            "name": "Eric Fellner",
+            "url": "https://www.imdb.com/name/nm0271479/"
+          }
+        ]
+      },
+      {
+        "name": "Anora",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt28607951/",
+        "people": [
+          {
+            "name": "Alex Coco",
+            "url": "https://www.imdb.com/name/nm7866544/"
+          },
+          {
+            "name": "Samantha Quan",
+            "url": "https://www.imdb.com/name/nm1013476/"
+          },
+          {
+            "name": "Sean Baker",
+            "url": "https://www.imdb.com/name/nm0048918/"
+          }
+        ]
+      },
+      {
+        "name": "Conclave",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "people": [
+          {
+            "name": "Tessa Ross",
+            "url": "https://www.imdb.com/name/nm0743882/"
+          },
+          {
+            "name": "Juliette Howell",
+            "url": "https://www.imdb.com/name/nm0397998/"
+          },
+          {
+            "name": "Michael Jackman",
+            "url": "https://www.imdb.com/name/nm0413182/"
+          }
+        ]
+      },
+      {
+        "name": "The Brutalist",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "people": [
+          {
+            "name": "Brady Corbet",
+            "url": "https://www.imdb.com/name/nm1227232/"
+          },
+          {
+            "name": "D.J. Gugenheim",
+            "url": "https://www.imdb.com/name/nm1486759/"
+          },
+          {
+            "name": "Brian Young",
+            "url": "https://www.imdb.com/name/nm1491945/"
+          },
+          {
+            "name": "Andrew Morrison",
+            "url": "https://www.imdb.com/name/nm6513341/"
+          },
+          {
+            "name": "Nick Gordon",
+            "url": "https://www.imdb.com/name/nm0330482/"
+          }
+        ]
+      },
+      {
+        "name": "Dune: Part Two",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "people": [
+          {
+            "name": "Mary Parent",
+            "url": "https://www.imdb.com/name/nm0661289/"
+          },
+          {
+            "name": "Cale Boyter",
+            "url": "https://www.imdb.com/name/nm1212547/"
+          },
+          {
+            "name": "Tanya Lapointe",
+            "url": "https://www.imdb.com/name/nm7069070/"
+          },
+          {
+            "name": "Denis Villeneuve",
+            "url": "https://www.imdb.com/name/nm0898288/"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "people": [
+          {
+            "name": "Pascal Caucheteux",
+            "url": "https://www.imdb.com/name/nm0146434/"
+          },
+          {
+            "name": "Jacques Audiard",
+            "url": "https://www.imdb.com/name/nm0002191/"
+          }
+        ]
+      },
+      {
+        "name": "Nickel Boys",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt23055660/",
+        "people": [
+          {
+            "name": "Dede Gardner",
+            "url": "https://www.imdb.com/name/nm0306890/"
+          },
+          {
+            "name": "Jeremy Kleiner",
+            "url": "https://www.imdb.com/name/nm1250070/"
+          },
+          {
+            "name": "Joslyn Barnes",
+            "url": "https://www.imdb.com/name/nm0055656/"
+          }
+        ]
+      },
+      {
+        "name": "A Complete Unknown",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt11563598/",
+        "people": [
+          {
+            "name": "Fred Berger",
+            "url": "https://www.imdb.com/name/nm1757754/"
+          },
+          {
+            "name": "James Mangold",
+            "url": "https://www.imdb.com/name/nm0003506/"
+          },
+          {
+            "name": "Alex Heineman",
+            "url": "https://www.imdb.com/name/nm2670366/"
+          }
+        ]
+      },
+      {
+        "name": "I'm Still Here",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "url": "https://www.imdb.com/title/tt14961016/",
+        "people": [
+          {
+            "name": "Maria Carlota Bruno",
+            "url": "https://www.imdb.com/name/nm1750060/"
+          },
+          {
+            "name": "Rodrigo Teixeira",
+            "url": "https://www.imdb.com/name/nm2095560/"
+          }
+        ]
+      }
+    ]
+  }
+]
