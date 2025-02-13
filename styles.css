@@ -27,6 +27,14 @@ h1, h2 {
   margin: 0;
   padding: 1rem;
 }
+.nominees > figure label {
+  display: block;
+  padding: 0.25rem;
+  background-color: #888;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
 .nominees > figure img {
   display: block;
   margin-bottom: 1rem;
@@ -41,9 +49,17 @@ h3 a {
   color: #eee;
   text-decoration: none;
 }
+h3 a:hover  {
+  color: #fff;
+  text-decoration: underline;
+}
 a {
   color: #ccc;
   text-decoration: none;
+}
+a:hover {
+  color: #eee;
+  text-decoration: underline;
 }
 a + a::before {
   content: ', ';
