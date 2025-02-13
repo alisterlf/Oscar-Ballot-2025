@@ -6,7 +6,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0686887/",
             "name": "Marc Platt"
@@ -17,7 +17,7 @@
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0267287/",
             "name": "Coralie Fargeat"
@@ -36,7 +36,7 @@
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm7866544/",
             "name": "Alex Coco"
@@ -55,7 +55,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0743882/",
             "name": "Tessa Ross"
@@ -74,7 +74,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1227232/",
             "name": "Brady Corbet"
@@ -101,7 +101,7 @@
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0661289/",
             "name": "Mary Parent"
@@ -124,7 +124,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0146434/",
             "name": "Pascal Caucheteux"
@@ -139,7 +139,7 @@
         "name": "Nickel Boys",
         "url": "https://www.imdb.com/title/tt23055660/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0306890/",
             "name": "Dede Gardner"
@@ -158,7 +158,7 @@
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1757754/",
             "name": "Fred Berger"
@@ -177,7 +177,7 @@
         "name": "I'm Still Here",
         "url": "https://www.imdb.com/title/tt14961016/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1750060/",
             "name": "Maria Carlota Bruno"
@@ -197,7 +197,7 @@
         "name": "Timothée Chalamet",
         "url": "https://www.imdb.com/name/nm3154303/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTIyZWY4ZjktOGJiZi00NGFkLTllMjctZjJjMmNiMjIxOTY2XkEyXkFqcGc@._V1_QL75_UY120_CR20,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt11563598/",
             "name": "A Complete Unknown"
@@ -208,7 +208,7 @@
         "name": "Ralph Fiennes",
         "url": "https://www.imdb.com/name/nm0000146/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt20215234/",
             "name": "Conclave"
@@ -219,7 +219,7 @@
         "name": "Adrien Brody",
         "url": "https://www.imdb.com/name/nm0004778/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8999762/",
             "name": "The Brutalist"
@@ -230,7 +230,7 @@
         "name": "Colman Domingo",
         "url": "https://www.imdb.com/name/nm0231458/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt28479262/",
             "name": "Sing Sing"
@@ -241,7 +241,7 @@
         "name": "Sebastian Stan",
         "url": "https://www.imdb.com/name/nm1659221/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWEwYjgxMDQtYmRkOS00MGFiLThjMzMtZGQ2ZjBhMTcyOWNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8368368/",
             "name": "The Apprentice"
@@ -257,7 +257,7 @@
         "name": "Mikey Madison",
         "url": "https://www.imdb.com/name/nm5700898/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGQ3NzA1ODEtODMwZi00NTQzLWIzYTQtODI0MjVkZDZiY2M4XkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt28607951/",
             "name": "Anora"
@@ -268,7 +268,7 @@
         "name": "Fernanda Torres",
         "url": "https://www.imdb.com/name/nm0868639/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDM0NjM0YzktNmE4MS00MjcyLWEyOTQtMjY4MTljMzFkZmNkXkEyXkFqcGc@._V1_QL75_UY120_CR1,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt14961016/",
             "name": "I'm Still Here"
@@ -279,7 +279,7 @@
         "name": "Demi Moore",
         "url": "https://www.imdb.com/name/nm0000193/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc1MDE4MV5BMl5BanBnXkFtZTcwNzAyNDczNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt17526714/",
             "name": "The Substance"
@@ -290,7 +290,7 @@
         "name": "Karla Sofía Gascón",
         "url": "https://www.imdb.com/name/nm1035423/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzAzY2FiNTQtNzEyYS00YmZjLWJjM2MtNjQxZGQ3NGY3NGVlXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt20221436/",
             "name": "Emilia Pérez"
@@ -301,7 +301,7 @@
         "name": "Cynthia Erivo",
         "url": "https://www.imdb.com/name/nm7248827/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTI3NzI1Nl5BMl5BanBnXkFtZTgwNjQ3Njk2NjM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt1262426/",
             "name": "Wicked"
@@ -317,7 +317,7 @@
         "name": "Kieran Culkin",
         "url": "https://www.imdb.com/name/nm0001085/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjZlNWRkMDQtNGNlYi00YTczLThjODYtMWE4ZDFmYTE3ZTkzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt21823606/",
             "name": "A Real Pain"
@@ -328,7 +328,7 @@
         "name": "Edward Norton",
         "url": "https://www.imdb.com/name/nm0001570/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt11563598/",
             "name": "A Complete Unknown"
@@ -339,7 +339,7 @@
         "name": "Yura Borisov",
         "url": "https://www.imdb.com/name/nm5426973/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTI5MDUyODMtYWExOS00YWJiLWIxNzQtMGE2YjdjMDlkZWQ2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt28607951/",
             "name": "Anora"
@@ -350,7 +350,7 @@
         "name": "Guy Pearce",
         "url": "https://www.imdb.com/name/nm0001602/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8999762/",
             "name": "The Brutalist"
@@ -361,7 +361,7 @@
         "name": "Jeremy Strong",
         "url": "https://www.imdb.com/name/nm0834989/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTY4MDQxNmMtYTcyMC00YzYyLWJmNGMtNmIzMTI1ODgxZWM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8368368/",
             "name": "The Apprentice"
@@ -377,7 +377,7 @@
         "name": "Zoe Saldana",
         "url": "https://www.imdb.com/name/nm0757855/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt20221436/",
             "name": "Emilia Pérez"
@@ -388,7 +388,7 @@
         "name": "Ariana Grande",
         "url": "https://www.imdb.com/name/nm3812858/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_QL75_UY120_CR47,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt1262426/",
             "name": "Wicked"
@@ -399,7 +399,7 @@
         "name": "Isabella Rossellini",
         "url": "https://www.imdb.com/name/nm0000618/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt20215234/",
             "name": "Conclave"
@@ -410,7 +410,7 @@
         "name": "Monica Barbaro",
         "url": "https://www.imdb.com/name/nm4834815/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzAzNWM1NTgtNzhhMS00OTVmLWI0ZmUtMTMwMjkyMjdkOTUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt11563598/",
             "name": "A Complete Unknown"
@@ -421,7 +421,7 @@
         "name": "Felicity Jones",
         "url": "https://www.imdb.com/name/nm0428065/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8999762/",
             "name": "The Brutalist"
@@ -437,7 +437,7 @@
         "name": "Brady Corbet",
         "url": "https://www.imdb.com/name/nm1227232/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDUwOTI4MF5BMl5BanBnXkFtZTcwOTgxMTI1NQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt8999762/",
             "name": "The Brutalist"
@@ -448,7 +448,7 @@
         "name": "Jacques Audiard",
         "url": "https://www.imdb.com/name/nm0002191/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NjU4Njg1OV5BMl5BanBnXkFtZTYwODU5MDY1._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt20221436/",
             "name": "Emilia Pérez"
@@ -459,7 +459,7 @@
         "name": "Sean Baker",
         "url": "https://www.imdb.com/name/nm0048918/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODkyMDQ0NF5BMl5BanBnXkFtZTcwNTM0OTUyNA@@._V1_QL75_UY120_CR31,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt28607951/",
             "name": "Anora"
@@ -470,7 +470,7 @@
         "name": "Coralie Fargeat",
         "url": "https://www.imdb.com/name/nm0267287/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDk3OTc3MTYzMF5BMl5BanBnXkFtZTgwMTg2MzI2NDM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt17526714/",
             "name": "The Substance"
@@ -481,7 +481,7 @@
         "name": "James Mangold",
         "url": "https://www.imdb.com/name/nm0003506/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWIxOTIwYzAtNDQyOS00MmNkLThiNjQtYmM5MzRmMjQ1NjhjXkEyXkFqcGc@._V1_CR597,0,1430,2145_QL75_UX120_CR0,0,120,120_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/title/tt11563598/",
             "name": "A Complete Unknown"
@@ -497,7 +497,7 @@
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0048918/",
             "name": "Sean Baker"
@@ -508,7 +508,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1227232/",
             "name": "Brady Corbet"
@@ -523,7 +523,7 @@
         "name": "A Real Pain",
         "url": "https://www.imdb.com/title/tt21823606/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0251986/",
             "name": "Jesse Eisenberg"
@@ -534,7 +534,7 @@
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0267287/",
             "name": "Coralie Fargeat"
@@ -545,7 +545,7 @@
         "name": "September 5",
         "url": "https://www.imdb.com/title/tt28082769/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm9415549/",
             "name": "Moritz Binder"
@@ -569,7 +569,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1661186/",
             "name": "Peter Straughan"
@@ -580,7 +580,7 @@
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0168379/",
             "name": "Jay Cocks"
@@ -595,7 +595,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0002191/",
             "name": "Jacques Audiard"
@@ -618,7 +618,7 @@
         "name": "Nickel Boys",
         "url": "https://www.imdb.com/title/tt23055660/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm8840476/",
             "name": "RaMell Ross"
@@ -633,7 +633,7 @@
         "name": "Sing Sing",
         "url": "https://www.imdb.com/title/tt28479262/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm3286079/",
             "name": "Clint Bentley"
@@ -661,7 +661,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0187018/",
             "name": "Lol Crawley"
@@ -672,7 +672,7 @@
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1144916/",
             "name": "Jarin Blaschke"
@@ -683,7 +683,7 @@
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0292132/",
             "name": "Greig Fraser"
@@ -694,7 +694,7 @@
         "name": "Maria",
         "url": "https://www.imdb.com/title/tt22893404/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmJlZTkzOWMtYjBmMi00MWY2LTg0YTUtNGUzZjI0MzgxYTY4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0005767/",
             "name": "Edward Lachman"
@@ -705,7 +705,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm5243556/",
             "name": "Paul Guilhaume"
@@ -721,7 +721,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm2512313/",
             "name": "Nick Emerson"
@@ -732,7 +732,7 @@
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0048918/",
             "name": "Sean Baker"
@@ -743,7 +743,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0919761/",
             "name": "Juliette Welfling"
@@ -754,7 +754,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0450005/",
             "name": "Myron Kerstein"
@@ -765,7 +765,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0417347/",
             "name": "Dávid Jancsó"
@@ -781,7 +781,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0189769/",
             "name": "Nathan Crowley (production designer)"
@@ -796,7 +796,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0065473/",
             "name": "Judy Becker (production designer)"
@@ -811,7 +811,7 @@
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0896580/",
             "name": "Shane Vieau (set decorator)"
@@ -826,7 +826,7 @@
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0490154/",
             "name": "Craig Lathrop`(production designer)"
@@ -841,7 +841,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0203990/",
             "name": "Suzie Davies (production designer)"
@@ -861,7 +861,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm3477899/",
             "name": "Paul Tazewell"
@@ -872,7 +872,7 @@
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0611379/",
             "name": "Linda Muir"
@@ -883,7 +883,7 @@
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0680218/",
             "name": "Arianne Phillips"
@@ -894,7 +894,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0160425/",
             "name": "Lisy Christl"
@@ -905,7 +905,7 @@
         "name": "Gladiator II",
         "url": "https://www.imdb.com/title/tt9218128/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0946765/",
             "name": "Janty Yates"
@@ -925,7 +925,7 @@
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0537972/",
             "name": "Tod A. Maitland"
@@ -952,7 +952,7 @@
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0424163/",
             "name": "Gareth John"
@@ -975,7 +975,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1052723/",
             "name": "Erwan Kerzanet"
@@ -1002,7 +1002,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0637810/",
             "name": "Nancy Nugent Title"
@@ -1029,7 +1029,7 @@
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0858378/",
             "name": "Randy Thom"
@@ -1057,7 +1057,7 @@
         "name": "A Different Man",
         "url": "https://www.imdb.com/title/tt21097228/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0002514/",
             "name": "Michael Marino"
@@ -1076,7 +1076,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm2086842/",
             "name": "Julia Floch-Carbonel"
@@ -1095,7 +1095,7 @@
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0924675/",
             "name": "David White"
@@ -1114,7 +1114,7 @@
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1031952/",
             "name": "Pierre Olivier Persin"
@@ -1133,7 +1133,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0360470/",
             "name": "Frances Hannon"
@@ -1157,7 +1157,7 @@
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm11771045/",
             "name": "Daniel Blumberg"
@@ -1168,7 +1168,7 @@
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm2890617/",
             "name": "Volker Bertelmann"
@@ -1179,7 +1179,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm4711393/",
             "name": "Clément Ducol"
@@ -1194,7 +1194,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0777451/",
             "name": "Stephen Schwartz"
@@ -1209,7 +1209,7 @@
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm3929283/",
             "name": "Kris Bowers"
@@ -1225,7 +1225,7 @@
         "name": "Elton John: Never Too Late For \"Never Too Late\"",
         "url": "https://www.imdb.com/title/tt20316978/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMyOTI1OGMtZjM4Ni00YzMxLThkZmItYWU4MjUwM2RlZTAwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0005056/",
             "name": "Elton John"
@@ -1248,7 +1248,7 @@
         "name": "Emilia Pérez For \"El Mal\"",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm4711393/",
             "name": "Clément Ducol"
@@ -1267,7 +1267,7 @@
         "name": "Emilia Pérez For \"Mi Camino\"",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm4711393/",
             "name": "Clément Ducol"
@@ -1282,7 +1282,7 @@
         "name": "Sing Sing For \"Like a Bird\"",
         "url": "https://www.imdb.com/title/tt28479262/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm11153958/",
             "name": "Abraham Alexander"
@@ -1297,7 +1297,7 @@
         "name": "The Six Triple Eight For \"The Journey\"",
         "url": "https://www.imdb.com/title/tt24458622/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDdhYTY4ZTEtZTlhZS00ZWI1LWFjYzQtMWRkMjIzN2E5NjBjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0005534/",
             "name": "Diane Warren"
@@ -1313,7 +1313,7 @@
         "name": "Alien: Romulus",
         "url": "https://www.imdb.com/title/tt18412256/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0053146/",
             "name": "Eric Barba"
@@ -1336,7 +1336,7 @@
         "name": "Better Man",
         "url": "https://www.imdb.com/title/tt14260836/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWU3YzU0NTItMGVlYi00YTFmLWE5MmQtNjg4ODQ3ZWYyNjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1515480/",
             "name": "Luke Millar"
@@ -1359,7 +1359,7 @@
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0995902/",
             "name": "Paul Lambert"
@@ -1382,7 +1382,7 @@
         "name": "Kingdom of the Planet of the Apes",
         "url": "https://www.imdb.com/title/tt11389872/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0935445/",
             "name": "Erik Winquist"
@@ -1405,7 +1405,7 @@
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1000834/",
             "name": "Jonathan Fawkner"
@@ -1433,7 +1433,7 @@
         "name": "Black Box Diaries",
         "url": "https://www.imdb.com/title/tt30227076/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc2YzRjOWQtZTY4Ni00Njg0LTg0ZGMtYzJkMWQ2MTk3YTBlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm10340152/",
             "name": "Shiori Itô"
@@ -1452,7 +1452,7 @@
         "name": "No Other Land",
         "url": "https://www.imdb.com/title/tt30953759/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzdhODkyYmUtMzE3ZS00YmQxLThlMGItNTQwNGJmYTk3ZjE3XkEyXkFqcGc@._V1_QL75_UY414_CR10,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm15732719/",
             "name": "Basel Adra"
@@ -1475,7 +1475,7 @@
         "name": "Porcelain War",
         "url": "https://www.imdb.com/title/tt30294282/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjkxMTQ3YWMtYmE3My00MDZlLWE1MGEtNmM2NDMzMTljNDczXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm2252386/",
             "name": "Brendan Bellomo"
@@ -1498,7 +1498,7 @@
         "name": "Soundtrack to a Coup d'Etat",
         "url": "https://www.imdb.com/title/tt14452174/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWIzNmIxYTUtMTdiMi00Zjk2LWJlYjktMzA5ZTA3YTExY2VkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1431615/",
             "name": "Johan Grimonprez"
@@ -1517,7 +1517,7 @@
         "name": "Sugarcane",
         "url": "https://www.imdb.com/title/tt30319854/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm11927478/",
             "name": "Julian Brave NoiseCat"
@@ -1541,7 +1541,7 @@
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0761498/",
             "name": "Chris Sanders"
@@ -1556,7 +1556,7 @@
         "name": "Flow",
         "url": "https://www.imdb.com/title/tt4772188/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1054433/",
             "name": "Ron Dyens"
@@ -1579,7 +1579,7 @@
         "name": "Inside Out 2",
         "url": "https://www.imdb.com/title/tt22022452/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1626375/",
             "name": "Kelsey Mann"
@@ -1594,7 +1594,7 @@
         "name": "Wallace &amp; Gromit: Vengeance Most Fowl",
         "url": "https://www.imdb.com/title/tt17163970",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk3M2YwMGUtZDJiZS00MDNkLWIyZDEtY2VjMWYyZDFmZjMzXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1485380/",
             "name": "Richard Beek"
@@ -1613,7 +1613,7 @@
         "name": "Memoir of a Snail",
         "url": "https://www.imdb.com/title/tt23770030/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWQzMzE3ZTUtZmYxMy00NzAyLWIyMzEtZDFlNDgwNzI3MGJjXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0254178/",
             "name": "Adam Elliot"
@@ -1633,7 +1633,7 @@
         "name": "Beautiful Men",
         "url": "https://www.imdb.com/title/tt30835281/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmMzNWE3MGMtNzRiMS00MzEzLWI0M2ItZmMyYWQyYWUxMmZlXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm9479994/",
             "name": "Nicolas Keppens"
@@ -1648,7 +1648,7 @@
         "name": "In the Shadow of the Cypress",
         "url": "https://www.imdb.com/title/tt28768883",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3MGYwZDItM2E4YS00NmU2LTgzZGItNzhkZDEzNThiNGRjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm11580481/",
             "name": "Shirin Sohani"
@@ -1663,7 +1663,7 @@
         "name": "Magic Candies",
         "url": "https://www.imdb.com/title/tt31888603/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODRhNzQ2YzUtMThhZC00NDJjLTg3YWQtZDQyNmEzZjdkODJmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0632788/",
             "name": "Daisuke Nishio"
@@ -1678,7 +1678,7 @@
         "name": "Wander to Wonder",
         "url": "https://www.imdb.com/title/tt28768679/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YTY0YWMtMmY3Mi00NTJmLTk0NTItZTAyNmY3ODA3MzVhXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm2441981/",
             "name": "Nina Gantz"
@@ -1693,7 +1693,7 @@
         "name": "Beurk !",
         "url": "https://www.imdb.com/title/tt28356173/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmFlYTYxMjMtOTVkYi00ZjA1LTg5ZTgtMmM5ZDNhZGNhM2Q1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm9489851/",
             "name": "Juliette Marquet"
@@ -1713,7 +1713,7 @@
         "name": "Anuja",
         "url": "https://www.imdb.com/title/tt27654431/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDJlY2FhZDYtMjQ0Yy00OGFkLWFkODQtNmMyMTcwNGZkZjVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm11820954/",
             "name": "Suchitra Mattai"
@@ -1728,7 +1728,7 @@
         "name": "The Last Ranger",
         "url": "https://www.imdb.com/title/tt15802124/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU3MjllYzUtZWRhOS00OWQ1LWFlZjMtMzA4MjE1YWQyOTc1XkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm8305829/",
             "name": "Cindy Lee"
@@ -1743,7 +1743,7 @@
         "name": "A Lien",
         "url": "https://www.imdb.com/title/tt27655666/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzI2ZWEwZTQtOTBlZS00MmQyLTlkNzMtN2Q5ZDliYTUyOGEwXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm9877582/",
             "name": "David Cutler-Kreutz"
@@ -1758,7 +1758,7 @@
         "name": "The Man Who Could Not Remain Silent",
         "url": "https://www.imdb.com/title/tt20519854/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzg2MjNmZmEtOTVjMi00ZTFlLTgwYTAtY2UzODcxY2Y4NDY2XkEyXkFqcGc@._V1_QL75_UY414_CR4,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm1196483/",
             "name": "Nebojsa Slijepcevic"
@@ -1773,7 +1773,7 @@
         "name": "I'm Not a Robot",
         "url": "https://www.imdb.com/title/tt19837932/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDdlNjEyNjQtMTU0NC00MTFmLThlNDgtYWE4MTBiNGYyNzk0XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0686692/",
             "name": "Trent"
@@ -1793,7 +1793,7 @@
         "name": "Death by Numbers",
         "url": "https://www.imdb.com/title/tt33385063/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzcyZTU2YjUtMjNlNS00YmM3LWJmMWEtMGU2NzhkMTBmNDM4XkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0811502/",
             "name": "Kim A. Snyder"
@@ -1808,7 +1808,7 @@
         "name": "I am Ready, Warden",
         "url": "https://www.imdb.com/title/tt31556921/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWQwM2YxNzQtZmNkNS00YWJkLWIxYzUtMmJjMmI3ZDQyY2E2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm3849774/",
             "name": "Maya Gnyp"
@@ -1823,7 +1823,7 @@
         "name": "Incident",
         "url": "https://www.imdb.com/title/tt27990245/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzQzZjRmNzQtOWQ3Zi00ZjMzLTg1YTgtNTQ2NDlkZDdkMWRiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0994484/",
             "name": "Bill Morrison"
@@ -1838,7 +1838,7 @@
         "name": "Instruments of a Beating Heart",
         "url": "https://www.imdb.com/title/tt32280470/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTFhMTAyMDUtYjk3NS00YTVmLTg3MzgtMTIwNzk0MWQ1NTdjXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm3655292/",
             "name": "Ema Ryan Yamazaki"
@@ -1853,7 +1853,7 @@
         "name": "The Only Girl in the Orchestra",
         "url": "https://www.imdb.com/title/tt29497240/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDVlNmEyMTQtYmJkMi00MDQ0LTljMGYtZDJkYzA0NDdiN2NkXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "url": "https://www.imdb.com/name/nm0639739/",
             "name": "Molly O'Brien"
@@ -1873,7 +1873,7 @@
         "name": "I'm Still Here",
         "url": "https://www.imdb.com/title/tt14961016/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "name": "Brazil"
           }
@@ -1883,7 +1883,7 @@
         "name": "The Girl with the Needle",
         "url": "https://www.imdb.com/title/tt10236164/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzdhMzMzMjMtOWVmYy00MWExLTlhZTAtYjQyNzY3YTY2ZWJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "name": "Denmark"
           }
@@ -1893,7 +1893,7 @@
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "name": "France"
           }
@@ -1903,7 +1903,7 @@
         "name": "The Seed of the Sacred Fig",
         "url": "https://www.imdb.com/title/tt32178949/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmYxMTlmODQtZTUyOS00YWE3LWFjYTktOWU4ZjU3ZGYwZDk2XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "people": [
+        "details": [
           {
             "name": "Germany"
           }
@@ -1913,7 +1913,7 @@
         "name": "Flow",
         "url": "https://www.imdb.com/title/tt4772188/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
-        "people": [
+        "details": [
           {
             "name": "Latvia"
           }
