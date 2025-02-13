@@ -4,187 +4,1918 @@
     "nominees": [
       {
         "name": "Wicked",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
         "people": [
           {
-            "name": "Marc Platt",
-            "url": "https://www.imdb.com/name/nm0686887/"
+            "url": "https://www.imdb.com/name/nm0686887/",
+            "name": "Marc Platt"
           }
         ]
       },
       {
         "name": "The Substance",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt17526714/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
         "people": [
           {
-            "name": "Coralie Fargeat",
-            "url": "https://www.imdb.com/name/nm0267287/"
+            "url": "https://www.imdb.com/name/nm0267287/",
+            "name": "Coralie Fargeat"
           },
           {
-            "name": "Tim Bevan",
-            "url": "https://www.imdb.com/name/nm0079677/"
+            "url": "https://www.imdb.com/name/nm0079677/",
+            "name": "Tim Bevan"
           },
           {
-            "name": "Eric Fellner",
-            "url": "https://www.imdb.com/name/nm0271479/"
+            "url": "https://www.imdb.com/name/nm0271479/",
+            "name": "Eric Fellner"
           }
         ]
       },
       {
         "name": "Anora",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt28607951/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Alex Coco",
-            "url": "https://www.imdb.com/name/nm7866544/"
+            "url": "https://www.imdb.com/name/nm7866544/",
+            "name": "Alex Coco"
           },
           {
-            "name": "Samantha Quan",
-            "url": "https://www.imdb.com/name/nm1013476/"
+            "url": "https://www.imdb.com/name/nm1013476/",
+            "name": "Samantha Quan"
           },
           {
-            "name": "Sean Baker",
-            "url": "https://www.imdb.com/name/nm0048918/"
+            "url": "https://www.imdb.com/name/nm0048918/",
+            "name": "Sean Baker"
           }
         ]
       },
       {
         "name": "Conclave",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Tessa Ross",
-            "url": "https://www.imdb.com/name/nm0743882/"
+            "url": "https://www.imdb.com/name/nm0743882/",
+            "name": "Tessa Ross"
           },
           {
-            "name": "Juliette Howell",
-            "url": "https://www.imdb.com/name/nm0397998/"
+            "url": "https://www.imdb.com/name/nm0397998/",
+            "name": "Juliette Howell"
           },
           {
-            "name": "Michael Jackman",
-            "url": "https://www.imdb.com/name/nm0413182/"
+            "url": "https://www.imdb.com/name/nm0413182/",
+            "name": "Michael Jackman"
           }
         ]
       },
       {
         "name": "The Brutalist",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
         "people": [
           {
-            "name": "Brady Corbet",
-            "url": "https://www.imdb.com/name/nm1227232/"
+            "url": "https://www.imdb.com/name/nm1227232/",
+            "name": "Brady Corbet"
           },
           {
-            "name": "D.J. Gugenheim",
-            "url": "https://www.imdb.com/name/nm1486759/"
+            "url": "https://www.imdb.com/name/nm1486759/",
+            "name": "D.J. Gugenheim"
           },
           {
-            "name": "Brian Young",
-            "url": "https://www.imdb.com/name/nm1491945/"
+            "url": "https://www.imdb.com/name/nm1491945/",
+            "name": "Brian Young"
           },
           {
-            "name": "Andrew Morrison",
-            "url": "https://www.imdb.com/name/nm6513341/"
+            "url": "https://www.imdb.com/name/nm6513341/",
+            "name": "Andrew Morrison"
           },
           {
-            "name": "Nick Gordon",
-            "url": "https://www.imdb.com/name/nm0330482/"
+            "url": "https://www.imdb.com/name/nm0330482/",
+            "name": "Nick Gordon"
           }
         ]
       },
       {
         "name": "Dune: Part Two",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt15239678/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Mary Parent",
-            "url": "https://www.imdb.com/name/nm0661289/"
+            "url": "https://www.imdb.com/name/nm0661289/",
+            "name": "Mary Parent"
           },
           {
-            "name": "Cale Boyter",
-            "url": "https://www.imdb.com/name/nm1212547/"
+            "url": "https://www.imdb.com/name/nm1212547/",
+            "name": "Cale Boyter"
           },
           {
-            "name": "Tanya Lapointe",
-            "url": "https://www.imdb.com/name/nm7069070/"
+            "url": "https://www.imdb.com/name/nm7069070/",
+            "name": "Tanya Lapointe"
           },
           {
-            "name": "Denis Villeneuve",
-            "url": "https://www.imdb.com/name/nm0898288/"
+            "url": "https://www.imdb.com/name/nm0898288/",
+            "name": "Denis Villeneuve"
           }
         ]
       },
       {
         "name": "Emilia Pérez",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Pascal Caucheteux",
-            "url": "https://www.imdb.com/name/nm0146434/"
+            "url": "https://www.imdb.com/name/nm0146434/",
+            "name": "Pascal Caucheteux"
           },
           {
-            "name": "Jacques Audiard",
-            "url": "https://www.imdb.com/name/nm0002191/"
+            "url": "https://www.imdb.com/name/nm0002191/",
+            "name": "Jacques Audiard"
           }
         ]
       },
       {
         "name": "Nickel Boys",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt23055660/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Dede Gardner",
-            "url": "https://www.imdb.com/name/nm0306890/"
+            "url": "https://www.imdb.com/name/nm0306890/",
+            "name": "Dede Gardner"
           },
           {
-            "name": "Jeremy Kleiner",
-            "url": "https://www.imdb.com/name/nm1250070/"
+            "url": "https://www.imdb.com/name/nm1250070/",
+            "name": "Jeremy Kleiner"
           },
           {
-            "name": "Joslyn Barnes",
-            "url": "https://www.imdb.com/name/nm0055656/"
+            "url": "https://www.imdb.com/name/nm0055656/",
+            "name": "Joslyn Barnes"
           }
         ]
       },
       {
         "name": "A Complete Unknown",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt11563598/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
         "people": [
           {
-            "name": "Fred Berger",
-            "url": "https://www.imdb.com/name/nm1757754/"
+            "url": "https://www.imdb.com/name/nm1757754/",
+            "name": "Fred Berger"
           },
           {
-            "name": "James Mangold",
-            "url": "https://www.imdb.com/name/nm0003506/"
+            "url": "https://www.imdb.com/name/nm0003506/",
+            "name": "James Mangold"
           },
           {
-            "name": "Alex Heineman",
-            "url": "https://www.imdb.com/name/nm2670366/"
+            "url": "https://www.imdb.com/name/nm2670366/",
+            "name": "Alex Heineman"
           }
         ]
       },
       {
         "name": "I'm Still Here",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "url": "https://www.imdb.com/title/tt14961016/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
         "people": [
           {
-            "name": "Maria Carlota Bruno",
-            "url": "https://www.imdb.com/name/nm1750060/"
+            "url": "https://www.imdb.com/name/nm1750060/",
+            "name": "Maria Carlota Bruno"
           },
           {
-            "name": "Rodrigo Teixeira",
-            "url": "https://www.imdb.com/name/nm2095560/"
+            "url": "https://www.imdb.com/name/nm2095560/",
+            "name": "Rodrigo Teixeira"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Performance by an Actor in a Leading Role",
+    "nominees": [
+      {
+        "name": "Timothée Chalamet",
+        "url": "https://www.imdb.com/name/nm3154303/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTIyZWY4ZjktOGJiZi00NGFkLTllMjctZjJjMmNiMjIxOTY2XkEyXkFqcGc@._V1_QL75_UY120_CR20,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt11563598/",
+            "name": "A Complete Unknown"
+          }
+        ]
+      },
+      {
+        "name": "Ralph Fiennes",
+        "url": "https://www.imdb.com/name/nm0000146/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt20215234/",
+            "name": "Conclave"
+          }
+        ]
+      },
+      {
+        "name": "Adrien Brody",
+        "url": "https://www.imdb.com/name/nm0004778/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8999762/",
+            "name": "The Brutalist"
+          }
+        ]
+      },
+      {
+        "name": "Colman Domingo",
+        "url": "https://www.imdb.com/name/nm0231458/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt28479262/",
+            "name": "Sing Sing"
+          }
+        ]
+      },
+      {
+        "name": "Sebastian Stan",
+        "url": "https://www.imdb.com/name/nm1659221/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWEwYjgxMDQtYmRkOS00MGFiLThjMzMtZGQ2ZjBhMTcyOWNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8368368/",
+            "name": "The Apprentice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Performance by an Actress in a Leading Role",
+    "nominees": [
+      {
+        "name": "Mikey Madison",
+        "url": "https://www.imdb.com/name/nm5700898/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQ3NzA1ODEtODMwZi00NTQzLWIzYTQtODI0MjVkZDZiY2M4XkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt28607951/",
+            "name": "Anora"
+          }
+        ]
+      },
+      {
+        "name": "Fernanda Torres",
+        "url": "https://www.imdb.com/name/nm0868639/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDM0NjM0YzktNmE4MS00MjcyLWEyOTQtMjY4MTljMzFkZmNkXkEyXkFqcGc@._V1_QL75_UY120_CR1,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt14961016/",
+            "name": "I'm Still Here"
+          }
+        ]
+      },
+      {
+        "name": "Demi Moore",
+        "url": "https://www.imdb.com/name/nm0000193/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc1MDE4MV5BMl5BanBnXkFtZTcwNzAyNDczNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt17526714/",
+            "name": "The Substance"
+          }
+        ]
+      },
+      {
+        "name": "Karla Sofía Gascón",
+        "url": "https://www.imdb.com/name/nm1035423/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzAzY2FiNTQtNzEyYS00YmZjLWJjM2MtNjQxZGQ3NGY3NGVlXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt20221436/",
+            "name": "Emilia Pérez"
+          }
+        ]
+      },
+      {
+        "name": "Cynthia Erivo",
+        "url": "https://www.imdb.com/name/nm7248827/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTI3NzI1Nl5BMl5BanBnXkFtZTgwNjQ3Njk2NjM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt1262426/",
+            "name": "Wicked"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Performance by an Actor in a Supporting Role",
+    "nominees": [
+      {
+        "name": "Kieran Culkin",
+        "url": "https://www.imdb.com/name/nm0001085/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjZlNWRkMDQtNGNlYi00YTczLThjODYtMWE4ZDFmYTE3ZTkzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt21823606/",
+            "name": "A Real Pain"
+          }
+        ]
+      },
+      {
+        "name": "Edward Norton",
+        "url": "https://www.imdb.com/name/nm0001570/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt11563598/",
+            "name": "A Complete Unknown"
+          }
+        ]
+      },
+      {
+        "name": "Yura Borisov",
+        "url": "https://www.imdb.com/name/nm5426973/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTI5MDUyODMtYWExOS00YWJiLWIxNzQtMGE2YjdjMDlkZWQ2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt28607951/",
+            "name": "Anora"
+          }
+        ]
+      },
+      {
+        "name": "Guy Pearce",
+        "url": "https://www.imdb.com/name/nm0001602/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8999762/",
+            "name": "The Brutalist"
+          }
+        ]
+      },
+      {
+        "name": "Jeremy Strong",
+        "url": "https://www.imdb.com/name/nm0834989/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTY4MDQxNmMtYTcyMC00YzYyLWJmNGMtNmIzMTI1ODgxZWM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8368368/",
+            "name": "The Apprentice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Performance by an Actress in a Supporting Role",
+    "nominees": [
+      {
+        "name": "Zoe Saldana",
+        "url": "https://www.imdb.com/name/nm0757855/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt20221436/",
+            "name": "Emilia Pérez"
+          }
+        ]
+      },
+      {
+        "name": "Ariana Grande",
+        "url": "https://www.imdb.com/name/nm3812858/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_QL75_UY120_CR47,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt1262426/",
+            "name": "Wicked"
+          }
+        ]
+      },
+      {
+        "name": "Isabella Rossellini",
+        "url": "https://www.imdb.com/name/nm0000618/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt20215234/",
+            "name": "Conclave"
+          }
+        ]
+      },
+      {
+        "name": "Monica Barbaro",
+        "url": "https://www.imdb.com/name/nm4834815/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzAzNWM1NTgtNzhhMS00OTVmLWI0ZmUtMTMwMjkyMjdkOTUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt11563598/",
+            "name": "A Complete Unknown"
+          }
+        ]
+      },
+      {
+        "name": "Felicity Jones",
+        "url": "https://www.imdb.com/name/nm0428065/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8999762/",
+            "name": "The Brutalist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Directing",
+    "nominees": [
+      {
+        "name": "Brady Corbet",
+        "url": "https://www.imdb.com/name/nm1227232/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDUwOTI4MF5BMl5BanBnXkFtZTcwOTgxMTI1NQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt8999762/",
+            "name": "The Brutalist"
+          }
+        ]
+      },
+      {
+        "name": "Jacques Audiard",
+        "url": "https://www.imdb.com/name/nm0002191/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NjU4Njg1OV5BMl5BanBnXkFtZTYwODU5MDY1._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt20221436/",
+            "name": "Emilia Pérez"
+          }
+        ]
+      },
+      {
+        "name": "Sean Baker",
+        "url": "https://www.imdb.com/name/nm0048918/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODkyMDQ0NF5BMl5BanBnXkFtZTcwNTM0OTUyNA@@._V1_QL75_UY120_CR31,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt28607951/",
+            "name": "Anora"
+          }
+        ]
+      },
+      {
+        "name": "Coralie Fargeat",
+        "url": "https://www.imdb.com/name/nm0267287/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDk3OTc3MTYzMF5BMl5BanBnXkFtZTgwMTg2MzI2NDM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt17526714/",
+            "name": "The Substance"
+          }
+        ]
+      },
+      {
+        "name": "James Mangold",
+        "url": "https://www.imdb.com/name/nm0003506/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWIxOTIwYzAtNDQyOS00MmNkLThiNjQtYmM5MzRmMjQ1NjhjXkEyXkFqcGc@._V1_CR597,0,1430,2145_QL75_UX120_CR0,0,120,120_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/title/tt11563598/",
+            "name": "A Complete Unknown"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Original Screenplay",
+    "nominees": [
+      {
+        "name": "Anora",
+        "url": "https://www.imdb.com/title/tt28607951/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0048918/",
+            "name": "Sean Baker"
+          }
+        ]
+      },
+      {
+        "name": "The Brutalist",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1227232/",
+            "name": "Brady Corbet"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2178754/",
+            "name": "Mona Fastvold"
+          }
+        ]
+      },
+      {
+        "name": "A Real Pain",
+        "url": "https://www.imdb.com/title/tt21823606/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0251986/",
+            "name": "Jesse Eisenberg"
+          }
+        ]
+      },
+      {
+        "name": "The Substance",
+        "url": "https://www.imdb.com/title/tt17526714/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0267287/",
+            "name": "Coralie Fargeat"
+          }
+        ]
+      },
+      {
+        "name": "September 5",
+        "url": "https://www.imdb.com/title/tt28082769/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm9415549/",
+            "name": "Moritz Binder"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2959497/",
+            "name": "Tim Fehlbaum"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1017048/",
+            "name": "Alex David"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Adapted Screenplay",
+    "nominees": [
+      {
+        "name": "Conclave",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1661186/",
+            "name": "Peter Straughan"
+          }
+        ]
+      },
+      {
+        "name": "A Complete Unknown",
+        "url": "https://www.imdb.com/title/tt11563598/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0168379/",
+            "name": "Jay Cocks"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0003506/",
+            "name": "James Mangold"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0002191/",
+            "name": "Jacques Audiard"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0081179/",
+            "name": "Thomas Bidegain"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5674565/",
+            "name": "Léa Mysius"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5365694/",
+            "name": "Nicolas Livecchi"
+          }
+        ]
+      },
+      {
+        "name": "Nickel Boys",
+        "url": "https://www.imdb.com/title/tt23055660/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm8840476/",
+            "name": "RaMell Ross"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0055656/",
+            "name": "Joslyn Barnes"
+          }
+        ]
+      },
+      {
+        "name": "Sing Sing",
+        "url": "https://www.imdb.com/title/tt28479262/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm3286079/",
+            "name": "Clint Bentley"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3613117/",
+            "name": "Greg Kwedar"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm13697094/",
+            "name": "Clarence Maclin"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5874224/",
+            "name": "John Divine G Whitfield"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Cinematography",
+    "nominees": [
+      {
+        "name": "The Brutalist",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0187018/",
+            "name": "Lol Crawley"
+          }
+        ]
+      },
+      {
+        "name": "Nosferatu",
+        "url": "https://www.imdb.com/title/tt5040012/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1144916/",
+            "name": "Jarin Blaschke"
+          }
+        ]
+      },
+      {
+        "name": "Dune: Part Two",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0292132/",
+            "name": "Greig Fraser"
+          }
+        ]
+      },
+      {
+        "name": "Maria",
+        "url": "https://www.imdb.com/title/tt22893404/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmJlZTkzOWMtYjBmMi00MWY2LTg0YTUtNGUzZjI0MzgxYTY4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0005767/",
+            "name": "Edward Lachman"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm5243556/",
+            "name": "Paul Guilhaume"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Film Editing",
+    "nominees": [
+      {
+        "name": "Conclave",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm2512313/",
+            "name": "Nick Emerson"
+          }
+        ]
+      },
+      {
+        "name": "Anora",
+        "url": "https://www.imdb.com/title/tt28607951/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0048918/",
+            "name": "Sean Baker"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0919761/",
+            "name": "Juliette Welfling"
+          }
+        ]
+      },
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0450005/",
+            "name": "Myron Kerstein"
+          }
+        ]
+      },
+      {
+        "name": "The Brutalist",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0417347/",
+            "name": "Dávid Jancsó"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Production Design",
+    "nominees": [
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0189769/",
+            "name": "Nathan Crowley (production designer)"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0761227/",
+            "name": "Lee Sandales (set decorator)"
+          }
+        ]
+      },
+      {
+        "name": "The Brutalist",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0065473/",
+            "name": "Judy Becker (production designer)"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0190966/",
+            "name": "Patricia Cuccia (set decorator)"
+          }
+        ]
+      },
+      {
+        "name": "Dune: Part Two",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0896580/",
+            "name": "Shane Vieau (set decorator)"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0894411/",
+            "name": "Patrice Vermette (production designer)"
+          }
+        ]
+      },
+      {
+        "name": "Nosferatu",
+        "url": "https://www.imdb.com/title/tt5040012/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0490154/",
+            "name": "Craig Lathrop`(production designer)"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1492239/",
+            "name": "Beatrice Brentnerova (set decorator)"
+          }
+        ]
+      },
+      {
+        "name": "Conclave",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0203990/",
+            "name": "Suzie Davies (production designer)"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0003775/",
+            "name": "Cynthia Sleiter (set decorator)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Costume Design",
+    "nominees": [
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm3477899/",
+            "name": "Paul Tazewell"
+          }
+        ]
+      },
+      {
+        "name": "Nosferatu",
+        "url": "https://www.imdb.com/title/tt5040012/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0611379/",
+            "name": "Linda Muir"
+          }
+        ]
+      },
+      {
+        "name": "A Complete Unknown",
+        "url": "https://www.imdb.com/title/tt11563598/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0680218/",
+            "name": "Arianne Phillips"
+          }
+        ]
+      },
+      {
+        "name": "Conclave",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0160425/",
+            "name": "Lisy Christl"
+          }
+        ]
+      },
+      {
+        "name": "Gladiator II",
+        "url": "https://www.imdb.com/title/tt9218128/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0946765/",
+            "name": "Janty Yates"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0189366/",
+            "name": "David Crossman"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Sound",
+    "nominees": [
+      {
+        "name": "A Complete Unknown",
+        "url": "https://www.imdb.com/title/tt11563598/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0537972/",
+            "name": "Tod A. Maitland"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0843219/",
+            "name": "Donald Sylvester"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0135242/",
+            "name": "Ted Caplan"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0557338/",
+            "name": "Paul Massey"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0316102/",
+            "name": "David Giammarco"
+          }
+        ]
+      },
+      {
+        "name": "Dune: Part Two",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0424163/",
+            "name": "Gareth John"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0455185/",
+            "name": "Richard King"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0058897/",
+            "name": "Ron Bartlett"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0376153/",
+            "name": "Doug Hemphill"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1052723/",
+            "name": "Erwan Kerzanet"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0222862/",
+            "name": "Aymeric Devoldère"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5687717/",
+            "name": "Maxence Dussère"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0392652/",
+            "name": "Cyril Holtz"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4069968/",
+            "name": "Niels Barletta"
+          }
+        ]
+      },
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0637810/",
+            "name": "Nancy Nugent Title"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1536532/",
+            "name": "Simon Hayes"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3387973/",
+            "name": "Jack Dolman"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0625144/",
+            "name": "Andy Nelson"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1308738/",
+            "name": "John Marquis"
+          }
+        ]
+      },
+      {
+        "name": "The Wild Robot",
+        "url": "https://www.imdb.com/title/tt29623480/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0858378/",
+            "name": "Randy Thom"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1014073/",
+            "name": "Brian Chumney"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0729886/",
+            "name": "Gary A. Rizzo"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1396496/",
+            "name": "Leff Lefferts"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Makeup and Hairstyling",
+    "nominees": [
+      {
+        "name": "A Different Man",
+        "url": "https://www.imdb.com/title/tt21097228/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0002514/",
+            "name": "Michael Marino"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1404648/",
+            "name": "David Presto"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm10455135/",
+            "name": "Crystal Jurado"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm2086842/",
+            "name": "Julia Floch-Carbonel"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm13243014/",
+            "name": "Emmanuel Janvier"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0816504/",
+            "name": "Jean-Christophe Spadaccini"
+          }
+        ]
+      },
+      {
+        "name": "Nosferatu",
+        "url": "https://www.imdb.com/title/tt5040012/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0924675/",
+            "name": "David White"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0516365/",
+            "name": "Traci Loader"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0831404/",
+            "name": "Suzanne Stokes-Munton"
+          }
+        ]
+      },
+      {
+        "name": "The Substance",
+        "url": "https://www.imdb.com/title/tt17526714/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1031952/",
+            "name": "Pierre Olivier Persin"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1213050/",
+            "name": "Stéphanie Guillon"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3388862/",
+            "name": "Marilyne Scarselli"
+          }
+        ]
+      },
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0360470/",
+            "name": "Frances Hannon"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3368818/",
+            "name": "Laura Blount"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2942968/",
+            "name": "Sarah Nuth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Music Written for Motion Pictures (OriginalScore)",
+    "nominees": [
+      {
+        "name": "The Brutalist",
+        "url": "https://www.imdb.com/title/tt8999762/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm11771045/",
+            "name": "Daniel Blumberg"
+          }
+        ]
+      },
+      {
+        "name": "Conclave",
+        "url": "https://www.imdb.com/title/tt20215234/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm2890617/",
+            "name": "Volker Bertelmann"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm4711393/",
+            "name": "Clément Ducol"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1722079/",
+            "name": "Camille"
+          }
+        ]
+      },
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0777451/",
+            "name": "Stephen Schwartz"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0694173/",
+            "name": "John Powell"
+          }
+        ]
+      },
+      {
+        "name": "The Wild Robot",
+        "url": "https://www.imdb.com/title/tt29623480/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm3929283/",
+            "name": "Kris Bowers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+    "nominees": [
+      {
+        "name": "Elton John: Never Too Late For \"Never Too Late\"",
+        "url": "https://www.imdb.com/title/tt20316978/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDMyOTI1OGMtZjM4Ni00YzMxLThkZmItYWU4MjUwM2RlZTAwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0005056/",
+            "name": "Elton John"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1848488/",
+            "name": "Brandi Carlile"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3353159/",
+            "name": "Andrew Watt"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0005479/",
+            "name": "Bernie Taupin"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez For \"El Mal\"",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm4711393/",
+            "name": "Clément Ducol"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1722079/",
+            "name": "Camille"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0002191/",
+            "name": "Jacques Audiard"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez For \"Mi Camino\"",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm4711393/",
+            "name": "Clément Ducol"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1722079/",
+            "name": "Camille"
+          }
+        ]
+      },
+      {
+        "name": "Sing Sing For \"Like a Bird\"",
+        "url": "https://www.imdb.com/title/tt28479262/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm11153958/",
+            "name": "Abraham Alexander"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2557663/",
+            "name": "Adrian Quesada"
+          }
+        ]
+      },
+      {
+        "name": "The Six Triple Eight For \"The Journey\"",
+        "url": "https://www.imdb.com/title/tt24458622/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdhYTY4ZTEtZTlhZS00ZWI1LWFjYzQtMWRkMjIzN2E5NjBjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0005534/",
+            "name": "Diane Warren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Achievement in Visual Effects",
+    "nominees": [
+      {
+        "name": "Alien: Romulus",
+        "url": "https://www.imdb.com/title/tt18412256/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0053146/",
+            "name": "Eric Barba"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0784700/",
+            "name": "Nelson Sepulveda"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1652052/",
+            "name": "Daniel Macarin"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0536752/",
+            "name": "Shane Mahan"
+          }
+        ]
+      },
+      {
+        "name": "Better Man",
+        "url": "https://www.imdb.com/title/tt14260836/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWU3YzU0NTItMGVlYi00YTFmLWE5MmQtNjg4ODQ3ZWYyNjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1515480/",
+            "name": "Luke Millar"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2238085/",
+            "name": "David Clayton"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1981800/",
+            "name": "Keith Herft"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0835934/",
+            "name": "Peter Stubbs"
+          }
+        ]
+      },
+      {
+        "name": "Dune: Part Two",
+        "url": "https://www.imdb.com/title/tt15239678/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0995902/",
+            "name": "Paul Lambert"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2133637/",
+            "name": "Stephen James"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2399047/",
+            "name": "Rhys Salcombe"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0275382/",
+            "name": "Gerd Nefzer"
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of the Planet of the Apes",
+        "url": "https://www.imdb.com/title/tt11389872/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0935445/",
+            "name": "Erik Winquist"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0881359/",
+            "name": "Stephen Unterfranz"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0832737/",
+            "name": "Paul Story"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0121849/",
+            "name": "Rodney Burke"
+          }
+        ]
+      },
+      {
+        "name": "Wicked",
+        "url": "https://www.imdb.com/title/tt1262426/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1000834/",
+            "name": "Jonathan Fawkner"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0375666/",
+            "name": "Pablo Helman"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1874068/",
+            "name": "David Shirk"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0179274/",
+            "name": "Paul Corbould"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Documentary Feature",
+    "nominees": [
+      {
+        "name": "Black Box Diaries",
+        "url": "https://www.imdb.com/title/tt30227076/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTc2YzRjOWQtZTY4Ni00Njg0LTg0ZGMtYzJkMWQ2MTk3YTBlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm10340152/",
+            "name": "Shiori Itô"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3552229/",
+            "name": "Eric Nyari"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm8687719/",
+            "name": "Hanna Aqvilin"
+          }
+        ]
+      },
+      {
+        "name": "No Other Land",
+        "url": "https://www.imdb.com/title/tt30953759/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzdhODkyYmUtMzE3ZS00YmQxLThlMGItNTQwNGJmYTk3ZjE3XkEyXkFqcGc@._V1_QL75_UY414_CR10,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm15732719/",
+            "name": "Basel Adra"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm15732722/",
+            "name": "Rachel Szor"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm15732720/",
+            "name": "Hamdan Ballal"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm15732721/",
+            "name": "Yuval Abraham"
+          }
+        ]
+      },
+      {
+        "name": "Porcelain War",
+        "url": "https://www.imdb.com/title/tt30294282/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjkxMTQ3YWMtYmE3My00MDZlLWE1MGEtNmM2NDMzMTljNDczXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm2252386/",
+            "name": "Brendan Bellomo"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm13731165/",
+            "name": "Slava Leontyev"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4527585/",
+            "name": "Aniela Sidorska"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0243462/",
+            "name": "Paula DuPré Pesmen"
+          }
+        ]
+      },
+      {
+        "name": "Soundtrack to a Coup d'Etat",
+        "url": "https://www.imdb.com/title/tt14452174/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWIzNmIxYTUtMTdiMi00Zjk2LWJlYjktMzA5ZTA3YTExY2VkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1431615/",
+            "name": "Johan Grimonprez"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4210363/",
+            "name": "Daan Milius"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4009159/",
+            "name": "Rémi Grellety"
+          }
+        ]
+      },
+      {
+        "name": "Sugarcane",
+        "url": "https://www.imdb.com/title/tt30319854/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm11927478/",
+            "name": "Julian Brave NoiseCat"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3354131/",
+            "name": "Emily Kassie"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2062930/",
+            "name": "Kellen Quinn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Animated Feature Film",
+    "nominees": [
+      {
+        "name": "The Wild Robot",
+        "url": "https://www.imdb.com/title/tt29623480/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0761498/",
+            "name": "Chris Sanders"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1915863/",
+            "name": "Jeff Hermann"
+          }
+        ]
+      },
+      {
+        "name": "Flow",
+        "url": "https://www.imdb.com/title/tt4772188/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1054433/",
+            "name": "Ron Dyens"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm6478535/",
+            "name": "Gints Zilbalodis"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5186633/",
+            "name": "Matiss Kaza"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3537684/",
+            "name": "Gregory Zalcman"
+          }
+        ]
+      },
+      {
+        "name": "Inside Out 2",
+        "url": "https://www.imdb.com/title/tt22022452/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1626375/",
+            "name": "Kelsey Mann"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0630923/",
+            "name": "Mark Nielsen"
+          }
+        ]
+      },
+      {
+        "name": "Wallace &amp; Gromit: Vengeance Most Fowl",
+        "url": "https://www.imdb.com/title/tt17163970",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk3M2YwMGUtZDJiZS00MDNkLWIyZDEtY2VjMWYyZDFmZjMzXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1485380/",
+            "name": "Richard Beek"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0661910/",
+            "name": "Nick Park"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1271549/",
+            "name": "Merlin Crossingham"
+          }
+        ]
+      },
+      {
+        "name": "Memoir of a Snail",
+        "url": "https://www.imdb.com/title/tt23770030/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQzMzE3ZTUtZmYxMy00NzAyLWIyMzEtZDFlNDgwNzI3MGJjXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0254178/",
+            "name": "Adam Elliot"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2782306/",
+            "name": "Liz Kearney"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Animated Short Film",
+    "nominees": [
+      {
+        "name": "Beautiful Men",
+        "url": "https://www.imdb.com/title/tt30835281/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmMzNWE3MGMtNzRiMS00MzEzLWI0M2ItZmMyYWQyYWUxMmZlXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm9479994/",
+            "name": "Nicolas Keppens"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm8653244/",
+            "name": "Brecht Van Elslande"
+          }
+        ]
+      },
+      {
+        "name": "In the Shadow of the Cypress",
+        "url": "https://www.imdb.com/title/tt28768883",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3MGYwZDItM2E4YS00NmU2LTgzZGItNzhkZDEzNThiNGRjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm11580481/",
+            "name": "Shirin Sohani"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm5548859/",
+            "name": "Hossein Molayemi"
+          }
+        ]
+      },
+      {
+        "name": "Magic Candies",
+        "url": "https://www.imdb.com/title/tt31888603/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODRhNzQ2YzUtMThhZC00NDJjLTg3YWQtZDQyNmEzZjdkODJmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0632788/",
+            "name": "Daisuke Nishio"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm2911605/",
+            "name": "Takashi Washio"
+          }
+        ]
+      },
+      {
+        "name": "Wander to Wonder",
+        "url": "https://www.imdb.com/title/tt28768679/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YTY0YWMtMmY3Mi00NTJmLTk0NTItZTAyNmY3ODA3MzVhXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm2441981/",
+            "name": "Nina Gantz"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0097975/",
+            "name": "Stienette Bosklopper"
+          }
+        ]
+      },
+      {
+        "name": "Beurk !",
+        "url": "https://www.imdb.com/title/tt28356173/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmFlYTYxMjMtOTVkYi00ZjA1LTg5ZTgtMmM5ZDNhZGNhM2Q1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm9489851/",
+            "name": "Juliette Marquet"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm7167768/",
+            "name": "Loïc Espuche"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Live Action Short Film",
+    "nominees": [
+      {
+        "name": "Anuja",
+        "url": "https://www.imdb.com/title/tt27654431/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDJlY2FhZDYtMjQ0Yy00OGFkLWFkODQtNmMyMTcwNGZkZjVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm11820954/",
+            "name": "Suchitra Mattai"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm12809780/",
+            "name": "Adam J. Graves"
+          }
+        ]
+      },
+      {
+        "name": "The Last Ranger",
+        "url": "https://www.imdb.com/title/tt15802124/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzU3MjllYzUtZWRhOS00OWQ1LWFlZjMtMzA4MjE1YWQyOTc1XkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm8305829/",
+            "name": "Cindy Lee"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0787430/",
+            "name": "Darwin Shaw"
+          }
+        ]
+      },
+      {
+        "name": "A Lien",
+        "url": "https://www.imdb.com/title/tt27655666/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzI2ZWEwZTQtOTBlZS00MmQyLTlkNzMtN2Q5ZDliYTUyOGEwXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm9877582/",
+            "name": "David Cutler-Kreutz"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4972708/",
+            "name": "Sam Cutler-Kreutz"
+          }
+        ]
+      },
+      {
+        "name": "The Man Who Could Not Remain Silent",
+        "url": "https://www.imdb.com/title/tt20519854/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzg2MjNmZmEtOTVjMi00ZTFlLTgwYTAtY2UzODcxY2Y4NDY2XkEyXkFqcGc@._V1_QL75_UY414_CR4,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm1196483/",
+            "name": "Nebojsa Slijepcevic"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4148941/",
+            "name": "Danijel Pek"
+          }
+        ]
+      },
+      {
+        "name": "I'm Not a Robot",
+        "url": "https://www.imdb.com/title/tt19837932/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdlNjEyNjQtMTU0NC00MTFmLThlNDgtYWE4MTBiNGYyNzk0XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0686692/",
+            "name": "Trent"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm6255610/",
+            "name": "Victoria Warmerdam"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best Documentary Short Film",
+    "nominees": [
+      {
+        "name": "Death by Numbers",
+        "url": "https://www.imdb.com/title/tt33385063/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzcyZTU2YjUtMjNlNS00YmM3LWJmMWEtMGU2NzhkMTBmNDM4XkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0811502/",
+            "name": "Kim A. Snyder"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm4953625/",
+            "name": "Janique L. Robillard"
+          }
+        ]
+      },
+      {
+        "name": "I am Ready, Warden",
+        "url": "https://www.imdb.com/title/tt31556921/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQwM2YxNzQtZmNkNS00YWJkLWIxYzUtMmJjMmI3ZDQyY2E2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm3849774/",
+            "name": "Maya Gnyp"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm0612731/",
+            "name": "Smriti Mundhra"
+          }
+        ]
+      },
+      {
+        "name": "Incident",
+        "url": "https://www.imdb.com/title/tt27990245/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzQzZjRmNzQtOWQ3Zi00ZjMzLTg1YTgtNTQ2NDlkZDdkMWRiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0994484/",
+            "name": "Bill Morrison"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm7758108/",
+            "name": "Jamie Kalven"
+          }
+        ]
+      },
+      {
+        "name": "Instruments of a Beating Heart",
+        "url": "https://www.imdb.com/title/tt32280470/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTFhMTAyMDUtYjk3NS00YTVmLTg3MzgtMTIwNzk0MWQ1NTdjXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm3655292/",
+            "name": "Ema Ryan Yamazaki"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm3552229/",
+            "name": "Eric Nyari"
+          }
+        ]
+      },
+      {
+        "name": "The Only Girl in the Orchestra",
+        "url": "https://www.imdb.com/title/tt29497240/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDVlNmEyMTQtYmJkMi00MDQ0LTljMGYtZDJkYzA0NDdiN2NkXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+        "people": [
+          {
+            "url": "https://www.imdb.com/name/nm0639739/",
+            "name": "Molly O'Brien"
+          },
+          {
+            "url": "https://www.imdb.com/name/nm1919152/",
+            "name": "Lisa Remington"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Best International Feature Film",
+    "nominees": [
+      {
+        "name": "I'm Still Here",
+        "url": "https://www.imdb.com/title/tt14961016/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "name": "Brazil"
+          }
+        ]
+      },
+      {
+        "name": "The Girl with the Needle",
+        "url": "https://www.imdb.com/title/tt10236164/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzdhMzMzMjMtOWVmYy00MWExLTlhZTAtYjQyNzY3YTY2ZWJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "name": "Denmark"
+          }
+        ]
+      },
+      {
+        "name": "Emilia Pérez",
+        "url": "https://www.imdb.com/title/tt20221436/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "people": [
+          {
+            "name": "France"
+          }
+        ]
+      },
+      {
+        "name": "The Seed of the Sacred Fig",
+        "url": "https://www.imdb.com/title/tt32178949/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmYxMTlmODQtZTUyOS00YWE3LWFjYTktOWU4ZjU3ZGYwZDk2XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "people": [
+          {
+            "name": "Germany"
+          }
+        ]
+      },
+      {
+        "name": "Flow",
+        "url": "https://www.imdb.com/title/tt4772188/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "people": [
+          {
+            "name": "Latvia"
           }
         ]
       }
