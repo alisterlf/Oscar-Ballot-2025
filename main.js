@@ -33,3 +33,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   });
 });
+function sharePrediction(){
+  const url = window.location.href;
+  const title = document.title;
+  const text = 'Check out my predictions for the 2021 Oscars!';
+  if (navigator.share) {
+    navigator.share({ title, text, url });
+  } else {
+    alert('Share functionality is not supported in your browser.');
+  }
+}
