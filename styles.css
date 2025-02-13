@@ -23,13 +23,13 @@ h1, h2 {
   border-radius: 0.5rem;
   padding: 1rem;
   color: #ccc;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
   gap: 1rem;
   margin: 0;
   padding: 1rem;
 }
 .nominees > figure img {
+  display: block;
+  margin-bottom: 1rem;
   border-radius: 0.5rem;
   width: 100%;
 }
