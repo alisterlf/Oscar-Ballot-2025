@@ -2,8 +2,8 @@ Handlebars.registerHelper('generateIdFromCategoryTitle', function (title) {
   return title.replace(/\s/g, '-').toLowerCase();
 });
 Handlebars.registerHelper('getImdbId', function (url) {
-  const match = url.match(/\/title\/(tt\d+)/i);
-  return match ? match[1] : null;
+  const match = url.match(/\/(title|name)\/(tt\d+|nm\d+)/i);
+  return match ? match[2] : null;
 });
 document.addEventListener('DOMContentLoaded', async () => {
   const response = await fetch('./awards.json');
@@ -34,12 +34,19 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 });
 function sharePrediction(){
-  const url = window.location.href;
-  const title = document.title;
-  const text = 'Check out my predictions for the 2021 Oscars!';
+  const radios = Array.from(document.querySelectorAll('input[type="radio"]'));
+  const checkedRadios = radios.filter((radio) => radio.checked);
+  const nominees = checkedRadios.map((radio) => {
+    console.log();
+    const category = radio.closest('.award').querySelector('h2').innerText;
+    const title = radio.closest('figure').querySelector('h3').innerText;
+    return `${category}: ${title}`;
+  });
+
+  const text = `I predict the following nominees will win at the 2025 Oscars: ${nominees.join(' | ')}`;
   if (navigator.share) {
-    navigator.share({ title, text, url });
+    navigator.share({ text });
   } else {
-    alert('Share functionality is not supported in your browser.');
+    console.log(text);
   }
 }
