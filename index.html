@@ -10,12 +10,12 @@
   <body>
     <h1>Oscars 2025 ballot</h1>
     <button onclick="sharePredictions()">Share predictions</button>
-    <p>Wached: <span id="wachedPercentage"></span></p>
+    <p>Watched: <span id="watchedPercentage"></span></p>
     <template>
       {{#each this}}
       <section class="award">
         <h2>{{name}}</h2>
-        <p>Wached in this category: <span class="wachedPercentage"></span></p>
+        <p>Watched in this category: <span class="watchedPercentage"></span></p>
         <section class="nominees">
           {{#each nominees}}
           <figure>

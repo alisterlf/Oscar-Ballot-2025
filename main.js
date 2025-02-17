@@ -43,8 +43,8 @@ function calcWatchedMovies() {
   const totalWatchedMovies = watchedMovies.length;
   const totalMovies = checkboxes.length;
   const percentage = Math.round((totalWatchedMovies / totalMovies) * 100);
-  const wachedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
-  document.querySelector("#wachedPercentage").textContent = wachedPercentage;
+  const watchedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
+  document.querySelector("#watchedPercentage").textContent = watchedPercentage;
 }
 function calcWatchedMoviesPerCategory() {
   const categories = Array.from(document.querySelectorAll(".award"));
@@ -54,8 +54,8 @@ function calcWatchedMoviesPerCategory() {
     const totalWatchedMovies = watchedMovies.length;
     const totalMovies = checkboxes.length;
     const percentage = Math.round((totalWatchedMovies / totalMovies) * 100);
-    const wachedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
-    category.querySelector(".wachedPercentage").textContent = wachedPercentage;
+    const watchedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
+    category.querySelector(".watchedPercentage").textContent = watchedPercentage;
   });
 }
 function sharePredictions() {
