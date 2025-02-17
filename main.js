@@ -17,8 +17,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (savedState !== null) {
       checkbox.checked = JSON.parse(savedState);
     }
-    checkbox.addEventListener("change", () => {
+    calcWatchedMovies();
+    calcWatchedMoviesPerCategory();
+    checkbox.addEventListener("change", (el) => {
       localStorage.setItem(checkbox.id, JSON.stringify(checkbox.checked));
+      calcWatchedMovies();
+      calcWatchedMoviesPerCategory();
     });
   });
   document.querySelectorAll('input[type="radio"]').forEach((radio) => {
@@ -26,14 +30,35 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (savedState !== null) {
       radio.checked = radio.value === savedState;
     }
-    radio.addEventListener("change", () => {
+    radio.addEventListener("change", (el) => {
       if (radio.checked) {
         localStorage.setItem(radio.name, radio.value);
       }
     });
   });
 });
-function sharePrediction() {
+function calcWatchedMovies() {
+  const checkboxes = Array.from(document.querySelectorAll('input[type="checkbox"]'));
+  const watchedMovies = checkboxes.filter((checkbox) => checkbox.checked);
+  const totalWatchedMovies = watchedMovies.length;
+  const totalMovies = checkboxes.length;
+  const percentage = Math.round((totalWatchedMovies / totalMovies) * 100);
+  const wachedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
+  document.querySelector("#wachedPercentage").textContent = wachedPercentage;
+}
+function calcWatchedMoviesPerCategory() {
+  const categories = Array.from(document.querySelectorAll(".award"));
+  categories.forEach((category) => {
+    const checkboxes = Array.from(category.querySelectorAll('input[type="checkbox"]'));
+    const watchedMovies = checkboxes.filter((checkbox) => checkbox.checked);
+    const totalWatchedMovies = watchedMovies.length;
+    const totalMovies = checkboxes.length;
+    const percentage = Math.round((totalWatchedMovies / totalMovies) * 100);
+    const wachedPercentage = `${totalWatchedMovies} / ${totalMovies} (${percentage}%)`;
+    category.querySelector(".wachedPercentage").textContent = wachedPercentage;
+  });
+}
+function sharePredictions() {
   const radios = Array.from(document.querySelectorAll('input[type="radio"]'));
   const checkedRadios = radios.filter((radio) => radio.checked);
   const nominees = checkedRadios.map((radio) => {

@@ -1,10 +1,12 @@
 body {
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   background-color: #222;
   margin: 0;
   padding: 1rem;
 }
-h1, h2 {
+h1,
+h2,
+p {
   color: #eee;
 }
 .award {
@@ -54,7 +56,7 @@ h3 a {
   color: #eee;
   text-decoration: none;
 }
-h3 a:hover  {
+h3 a:hover {
   color: #fff;
   text-decoration: underline;
 }
@@ -67,5 +69,5 @@ a:hover {
   text-decoration: underline;
 }
 a + a::before {
-  content: ', ';
+  content: ", ";
 }

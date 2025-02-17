@@ -9,11 +9,13 @@
   </head>
   <body>
     <h1>Oscars 2025 ballot</h1>
-    <button onclick="sharePrediction()">Share</button>
+    <button onclick="sharePredictions()">Share predictions</button>
+    <p>Wached: <span id="wachedPercentage"></span></p>
     <template>
       {{#each this}}
       <section class="award">
         <h2>{{name}}</h2>
+        <p>Wached in this category: <span class="wachedPercentage"></span></p>
         <section class="nominees">
           {{#each nominees}}
           <figure>
@@ -22,8 +24,19 @@
               <h3>
                 <a href="{{url}}">{{name}}</a>
               </h3>
-              <label><input type="radio" name="{{generateIdFromCategoryTitle ../name}}" id="{{generateIdFromCategoryTitle ../name}}-{{getImdbId url}}" value="{{getImdbId url}}"> Prediction</label>
-              <label><input type="checkbox" name="{{getImdbId url}}" id="{{getImdbId url}}"> Watched</label>
+              <label>
+                <input
+                  type="radio"
+                  name="{{generateIdFromCategoryTitle ../name}}"
+                  id="{{generateIdFromCategoryTitle ../name}}-{{getImdbId url}}-prediction"
+                  value="{{getImdbId url}}"
+                />
+                Prediction
+              </label>
+              <label>
+                <input type="checkbox" name="{{generateIdFromCategoryTitle ../name}}" id="{{generateIdFromCategoryTitle ../name}}-{{getImdbId url}}-watched" />
+                Watched
+              </label>
               {{#each details}}
               <a href="{{url}}">{{name}}</a>
               {{/each}}
