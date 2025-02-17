@@ -34,7 +34,12 @@
                 Prediction
               </label>
               <label>
-                <input type="checkbox" name="{{generateIdFromCategoryTitle ../name}}" id="{{generateIdFromCategoryTitle ../name}}-{{getImdbId url}}-watched" />
+                <input
+                  type="checkbox"
+                  data-movie-id="{{id}}"
+                  name="{{generateIdFromCategoryTitle ../name}}"
+                  id="{{generateIdFromCategoryTitle ../name}}-{{getImdbId url}}-watched"
+                />
                 Watched
               </label>
               {{#each details}}

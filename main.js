@@ -19,8 +19,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
     calcWatchedMovies();
     calcWatchedMoviesPerCategory();
-    checkbox.addEventListener("change", (el) => {
+    checkbox.addEventListener("change", () => {
       localStorage.setItem(checkbox.id, JSON.stringify(checkbox.checked));
+      setCheckboxOfSameMovie(checkbox.dataset.movieId, checkbox.checked);
       calcWatchedMovies();
       calcWatchedMoviesPerCategory();
     });
@@ -37,6 +38,17 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   });
 });
+function setCheckboxOfSameMovie(movieId, checked) {
+  const checkboxes = Array.from(document.querySelectorAll('input[type="checkbox"]'));
+  checkboxes.forEach((checkbox) => {
+    if (checkbox.dataset.movieId === movieId) {
+      if (checkbox.checked !== checked) {
+        checkbox.checked = checked;
+        localStorage.setItem(checkbox.id, JSON.stringify(checked));
+      }
+    }
+  });
+}
 function calcWatchedMovies() {
   const checkboxes = Array.from(document.querySelectorAll('input[type="checkbox"]'));
   const watchedMovies = checkboxes.filter((checkbox) => checkbox.checked);

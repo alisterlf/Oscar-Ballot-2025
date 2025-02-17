@@ -3,6 +3,7 @@
     "name": "Best Motion Picture of the Year",
     "nominees": [
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -14,6 +15,7 @@
         ]
       },
       {
+        "id": "tt17526714",
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
@@ -33,6 +35,7 @@
         ]
       },
       {
+        "id": "tt28607951",
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -52,6 +55,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -71,6 +75,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -98,6 +103,7 @@
         ]
       },
       {
+        "id": "tt15239678",
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -121,6 +127,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -136,6 +143,7 @@
         ]
       },
       {
+        "id": "tt23055660",
         "name": "Nickel Boys",
         "url": "https://www.imdb.com/title/tt23055660/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -155,6 +163,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -174,6 +183,7 @@
         ]
       },
       {
+        "id": "tt14961016",
         "name": "I'm Still Here",
         "url": "https://www.imdb.com/title/tt14961016/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZmIxMWVmZDYtODNmNy00YjhkLTg2MmUtOTQxZTI3ZTMxZGYxXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg",
@@ -194,6 +204,7 @@
     "name": "Best Performance by an Actor in a Leading Role",
     "nominees": [
       {
+        "id": "tt11563598",
         "name": "Timothée Chalamet",
         "url": "https://www.imdb.com/name/nm3154303/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTIyZWY4ZjktOGJiZi00NGFkLTllMjctZjJjMmNiMjIxOTY2XkEyXkFqcGc@._V1_QL75_UY120_CR20,0,120,120_.jpg",
@@ -205,6 +216,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Ralph Fiennes",
         "url": "https://www.imdb.com/name/nm0000146/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -216,6 +228,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "Adrien Brody",
         "url": "https://www.imdb.com/name/nm0004778/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -227,6 +240,7 @@
         ]
       },
       {
+        "id": "tt28479262",
         "name": "Colman Domingo",
         "url": "https://www.imdb.com/name/nm0231458/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
@@ -238,6 +252,7 @@
         ]
       },
       {
+        "id": "tt8368368",
         "name": "Sebastian Stan",
         "url": "https://www.imdb.com/name/nm1659221/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWEwYjgxMDQtYmRkOS00MGFiLThjMzMtZGQ2ZjBhMTcyOWNlXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -254,6 +269,7 @@
     "name": "Best Performance by an Actress in a Leading Role",
     "nominees": [
       {
+        "id": "tt28607951",
         "name": "Mikey Madison",
         "url": "https://www.imdb.com/name/nm5700898/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGQ3NzA1ODEtODMwZi00NTQzLWIzYTQtODI0MjVkZDZiY2M4XkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
@@ -265,6 +281,7 @@
         ]
       },
       {
+        "id": "tt14961016",
         "name": "Fernanda Torres",
         "url": "https://www.imdb.com/name/nm0868639/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDM0NjM0YzktNmE4MS00MjcyLWEyOTQtMjY4MTljMzFkZmNkXkEyXkFqcGc@._V1_FMjpg_UX600_.jpg",
@@ -276,6 +293,7 @@
         ]
       },
       {
+        "id": "tt17526714",
         "name": "Demi Moore",
         "url": "https://www.imdb.com/name/nm0000193/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc2Mjc1MDE4MV5BMl5BanBnXkFtZTcwNzAyNDczNA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -287,6 +305,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Karla Sofía Gascón",
         "url": "https://www.imdb.com/name/nm1035423/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzAzY2FiNTQtNzEyYS00YmZjLWJjM2MtNjQxZGQ3NGY3NGVlXkEyXkFqcGc@._V1_QL75_UY120_CR30,0,120,120_.jpg",
@@ -298,6 +317,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Cynthia Erivo",
         "url": "https://www.imdb.com/name/nm7248827/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTI3NzI1Nl5BMl5BanBnXkFtZTgwNjQ3Njk2NjM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -314,6 +334,7 @@
     "name": "Best Performance by an Actor in a Supporting Role",
     "nominees": [
       {
+        "id": "tt21823606",
         "name": "Kieran Culkin",
         "url": "https://www.imdb.com/name/nm0001085/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjZlNWRkMDQtNGNlYi00YTczLThjODYtMWE4ZDFmYTE3ZTkzXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -325,6 +346,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "Edward Norton",
         "url": "https://www.imdb.com/name/nm0001570/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -336,6 +358,7 @@
         ]
       },
       {
+        "id": "tt28607951",
         "name": "Yura Borisov",
         "url": "https://www.imdb.com/name/nm5426973/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTI5MDUyODMtYWExOS00YWJiLWIxNzQtMGE2YjdjMDlkZWQ2XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -347,6 +370,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "Guy Pearce",
         "url": "https://www.imdb.com/name/nm0001602/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -358,6 +382,7 @@
         ]
       },
       {
+        "id": "tt8368368",
         "name": "Jeremy Strong",
         "url": "https://www.imdb.com/name/nm0834989/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTY4MDQxNmMtYTcyMC00YzYyLWJmNGMtNmIzMTI1ODgxZWM3XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -374,6 +399,7 @@
     "name": "Best Performance by an Actress in a Supporting Role",
     "nominees": [
       {
+        "id": "tt20221436",
         "name": "Zoe Saldana",
         "url": "https://www.imdb.com/name/nm0757855/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -385,6 +411,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Ariana Grande",
         "url": "https://www.imdb.com/name/nm3812858/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_QL75_UY120_CR47,0,120,120_.jpg",
@@ -396,6 +423,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Isabella Rossellini",
         "url": "https://www.imdb.com/name/nm0000618/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -407,6 +435,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "Monica Barbaro",
         "url": "https://www.imdb.com/name/nm4834815/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzAzNWM1NTgtNzhhMS00OTVmLWI0ZmUtMTMwMjkyMjdkOTUxXkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -418,6 +447,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "Felicity Jones",
         "url": "https://www.imdb.com/name/nm0428065/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -434,6 +464,7 @@
     "name": "Best Achievement in Directing",
     "nominees": [
       {
+        "id": "tt8999762",
         "name": "Brady Corbet",
         "url": "https://www.imdb.com/name/nm1227232/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDUwOTI4MF5BMl5BanBnXkFtZTcwOTgxMTI1NQ@@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -445,6 +476,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Jacques Audiard",
         "url": "https://www.imdb.com/name/nm0002191/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NjU4Njg1OV5BMl5BanBnXkFtZTYwODU5MDY1._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -456,6 +488,7 @@
         ]
       },
       {
+        "id": "tt28607951",
         "name": "Sean Baker",
         "url": "https://www.imdb.com/name/nm0048918/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODkyMDQ0NF5BMl5BanBnXkFtZTcwNTM0OTUyNA@@._V1_QL75_UY120_CR31,0,120,120_.jpg",
@@ -467,6 +500,7 @@
         ]
       },
       {
+        "id": "tt17526714",
         "name": "Coralie Fargeat",
         "url": "https://www.imdb.com/name/nm0267287/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDk3OTc3MTYzMF5BMl5BanBnXkFtZTgwMTg2MzI2NDM@._V1_QL75_UX120_CR0,0,120,120_.jpg",
@@ -478,6 +512,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "James Mangold",
         "url": "https://www.imdb.com/name/nm0003506/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWIxOTIwYzAtNDQyOS00MmNkLThiNjQtYmM5MzRmMjQ1NjhjXkEyXkFqcGc@._V1_CR597,0,1430,2145_QL75_UX120_CR0,0,120,120_.jpg",
@@ -494,6 +529,7 @@
     "name": "Best Original Screenplay",
     "nominees": [
       {
+        "id": "tt28607951",
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -505,6 +541,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -520,6 +557,7 @@
         ]
       },
       {
+        "id": "tt21823606",
         "name": "A Real Pain",
         "url": "https://www.imdb.com/title/tt21823606/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -531,6 +569,7 @@
         ]
       },
       {
+        "id": "tt17526714",
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
@@ -542,6 +581,7 @@
         ]
       },
       {
+        "id": "tt28082769",
         "name": "September 5",
         "url": "https://www.imdb.com/title/tt28082769/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWUxY2YyYzctYWY3Yi00ZGJjLTkzMDktZjYzMTIzZjNhNmM2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -566,6 +606,7 @@
     "name": "Best Adapted Screenplay",
     "nominees": [
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -577,6 +618,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -592,6 +634,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -615,6 +658,7 @@
         ]
       },
       {
+        "id": "tt23055660",
         "name": "Nickel Boys",
         "url": "https://www.imdb.com/title/tt23055660/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGRkMzIyY2QtMjc5My00NGRjLWE5ZGUtYjRiMDNjMzAwOTU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -630,6 +674,7 @@
         ]
       },
       {
+        "id": "tt28479262",
         "name": "Sing Sing",
         "url": "https://www.imdb.com/title/tt28479262/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -658,6 +703,7 @@
     "name": "Best Achievement in Cinematography",
     "nominees": [
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -669,6 +715,7 @@
         ]
       },
       {
+        "id": "tt5040012",
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -680,6 +727,7 @@
         ]
       },
       {
+        "id": "tt15239678",
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -691,6 +739,7 @@
         ]
       },
       {
+        "id": "tt22893404",
         "name": "Maria",
         "url": "https://www.imdb.com/title/tt22893404/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmJlZTkzOWMtYjBmMi00MWY2LTg0YTUtNGUzZjI0MzgxYTY4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -702,6 +751,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -718,6 +768,7 @@
     "name": "Best Achievement in Film Editing",
     "nominees": [
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -729,6 +780,7 @@
         ]
       },
       {
+        "id": "tt28607951",
         "name": "Anora",
         "url": "https://www.imdb.com/title/tt28607951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -740,6 +792,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -751,6 +804,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -762,6 +816,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -778,6 +833,7 @@
     "name": "Best Achievement in Production Design",
     "nominees": [
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -793,6 +849,7 @@
         ]
       },
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -808,6 +865,7 @@
         ]
       },
       {
+        "id": "tt15239678",
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -823,6 +881,7 @@
         ]
       },
       {
+        "id": "tt5040012",
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -838,6 +897,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -858,6 +918,7 @@
     "name": "Best Achievement in Costume Design",
     "nominees": [
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -869,6 +930,7 @@
         ]
       },
       {
+        "id": "tt5040012",
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -880,6 +942,7 @@
         ]
       },
       {
+        "id": "tt11563598",
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -891,6 +954,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -902,6 +966,7 @@
         ]
       },
       {
+        "id": "tt9218128",
         "name": "Gladiator II",
         "url": "https://www.imdb.com/title/tt9218128/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -922,6 +987,7 @@
     "name": "Best Sound",
     "nominees": [
       {
+        "id": "tt11563598",
         "name": "A Complete Unknown",
         "url": "https://www.imdb.com/title/tt11563598/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -949,6 +1015,7 @@
         ]
       },
       {
+        "id": "tt15239678",
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -972,6 +1039,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -999,6 +1067,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1026,6 +1095,7 @@
         ]
       },
       {
+        "id": "tt29623480",
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1054,6 +1124,7 @@
     "name": "Best Achievement in Makeup and Hairstyling",
     "nominees": [
       {
+        "id": "tt21097228",
         "name": "A Different Man",
         "url": "https://www.imdb.com/title/tt21097228/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1073,6 +1144,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1092,6 +1164,7 @@
         ]
       },
       {
+        "id": "tt5040012",
         "name": "Nosferatu",
         "url": "https://www.imdb.com/title/tt5040012/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1111,6 +1184,7 @@
         ]
       },
       {
+        "id": "tt17526714",
         "name": "The Substance",
         "url": "https://www.imdb.com/title/tt17526714/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
@@ -1130,6 +1204,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1154,6 +1229,7 @@
     "name": "Best Achievement in Music Written for Motion Pictures (OriginalScore)",
     "nominees": [
       {
+        "id": "tt8999762",
         "name": "The Brutalist",
         "url": "https://www.imdb.com/title/tt8999762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -1165,6 +1241,7 @@
         ]
       },
       {
+        "id": "tt20215234",
         "name": "Conclave",
         "url": "https://www.imdb.com/title/tt20215234/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1176,6 +1253,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1191,6 +1269,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1206,6 +1285,7 @@
         ]
       },
       {
+        "id": "tt29623480",
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1222,6 +1302,7 @@
     "name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
     "nominees": [
       {
+        "id": "tt20316978",
         "name": "Elton John: Never Too Late For \"Never Too Late\"",
         "url": "https://www.imdb.com/title/tt20316978/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMyOTI1OGMtZjM4Ni00YzMxLThkZmItYWU4MjUwM2RlZTAwXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
@@ -1245,6 +1326,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez For \"El Mal\"",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1264,6 +1346,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez For \"Mi Camino\"",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1279,6 +1362,7 @@
         ]
       },
       {
+        "id": "tt28479262",
         "name": "Sing Sing For \"Like a Bird\"",
         "url": "https://www.imdb.com/title/tt28479262/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDMzODBlNmMtZmUxNC00NWEwLWE4NTktZWUwNmExNGRlMWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1294,6 +1378,7 @@
         ]
       },
       {
+        "id": "tt24458622",
         "name": "The Six Triple Eight For \"The Journey\"",
         "url": "https://www.imdb.com/title/tt24458622/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDdhYTY4ZTEtZTlhZS00ZWI1LWFjYzQtMWRkMjIzN2E5NjBjXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -1310,6 +1395,7 @@
     "name": "Best Achievement in Visual Effects",
     "nominees": [
       {
+        "id": "tt18412256",
         "name": "Alien: Romulus",
         "url": "https://www.imdb.com/title/tt18412256/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1333,6 +1419,7 @@
         ]
       },
       {
+        "id": "tt14260836",
         "name": "Better Man",
         "url": "https://www.imdb.com/title/tt14260836/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWU3YzU0NTItMGVlYi00YTFmLWE5MmQtNjg4ODQ3ZWYyNjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1356,6 +1443,7 @@
         ]
       },
       {
+        "id": "tt15239678",
         "name": "Dune: Part Two",
         "url": "https://www.imdb.com/title/tt15239678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1379,6 +1467,7 @@
         ]
       },
       {
+        "id": "tt11389872",
         "name": "Kingdom of the Planet of the Apes",
         "url": "https://www.imdb.com/title/tt11389872/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1402,6 +1491,7 @@
         ]
       },
       {
+        "id": "tt1262426",
         "name": "Wicked",
         "url": "https://www.imdb.com/title/tt1262426/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1430,6 +1520,7 @@
     "name": "Best Documentary Feature",
     "nominees": [
       {
+        "id": "tt30227076",
         "name": "Black Box Diaries",
         "url": "https://www.imdb.com/title/tt30227076/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTc2YzRjOWQtZTY4Ni00Njg0LTg0ZGMtYzJkMWQ2MTk3YTBlXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -1449,6 +1540,7 @@
         ]
       },
       {
+        "id": "tt30953759",
         "name": "No Other Land",
         "url": "https://www.imdb.com/title/tt30953759/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzdhODkyYmUtMzE3ZS00YmQxLThlMGItNTQwNGJmYTk3ZjE3XkEyXkFqcGc@._V1_QL75_UY414_CR10,0,280,414_.jpg",
@@ -1472,6 +1564,7 @@
         ]
       },
       {
+        "id": "tt30294282",
         "name": "Porcelain War",
         "url": "https://www.imdb.com/title/tt30294282/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjkxMTQ3YWMtYmE3My00MDZlLWE1MGEtNmM2NDMzMTljNDczXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,414_.jpg",
@@ -1495,6 +1588,7 @@
         ]
       },
       {
+        "id": "tt14452174",
         "name": "Soundtrack to a Coup d'Etat",
         "url": "https://www.imdb.com/title/tt14452174/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWIzNmIxYTUtMTdiMi00Zjk2LWJlYjktMzA5ZTA3YTExY2VkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1514,6 +1608,7 @@
         ]
       },
       {
+        "id": "tt30319854",
         "name": "Sugarcane",
         "url": "https://www.imdb.com/title/tt30319854/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
@@ -1538,6 +1633,7 @@
     "name": "Best Animated Feature Film",
     "nominees": [
       {
+        "id": "tt29623480",
         "name": "The Wild Robot",
         "url": "https://www.imdb.com/title/tt29623480/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
@@ -1553,6 +1649,7 @@
         ]
       },
       {
+        "id": "tt4772188",
         "name": "Flow",
         "url": "https://www.imdb.com/title/tt4772188/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -1576,6 +1673,7 @@
         ]
       },
       {
+        "id": "tt22022452",
         "name": "Inside Out 2",
         "url": "https://www.imdb.com/title/tt22022452/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1591,6 +1689,7 @@
         ]
       },
       {
+        "id": "tt1716397",
         "name": "Wallace &amp; Gromit: Vengeance Most Fowl",
         "url": "https://www.imdb.com/title/tt17163970",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk3M2YwMGUtZDJiZS00MDNkLWIyZDEtY2VjMWYyZDFmZjMzXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
@@ -1610,6 +1709,7 @@
         ]
       },
       {
+        "id": "tt23770030",
         "name": "Memoir of a Snail",
         "url": "https://www.imdb.com/title/tt23770030/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWQzMzE3ZTUtZmYxMy00NzAyLWIyMzEtZDFlNDgwNzI3MGJjXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
@@ -1630,6 +1730,7 @@
     "name": "Best Animated Short Film",
     "nominees": [
       {
+        "id": "tt30835281",
         "name": "Beautiful Men",
         "url": "https://www.imdb.com/title/tt30835281/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmMzNWE3MGMtNzRiMS00MzEzLWI0M2ItZmMyYWQyYWUxMmZlXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
@@ -1645,6 +1746,7 @@
         ]
       },
       {
+        "id": "tt2876888",
         "name": "In the Shadow of the Cypress",
         "url": "https://www.imdb.com/title/tt28768883",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3MGYwZDItM2E4YS00NmU2LTgzZGItNzhkZDEzNThiNGRjXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1660,6 +1762,7 @@
         ]
       },
       {
+        "id": "tt31888603",
         "name": "Magic Candies",
         "url": "https://www.imdb.com/title/tt31888603/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODRhNzQ2YzUtMThhZC00NDJjLTg3YWQtZDQyNmEzZjdkODJmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
@@ -1675,6 +1778,7 @@
         ]
       },
       {
+        "id": "tt28768679",
         "name": "Wander to Wonder",
         "url": "https://www.imdb.com/title/tt28768679/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOGI2YTY0YWMtMmY3Mi00NTJmLTk0NTItZTAyNmY3ODA3MzVhXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
@@ -1690,6 +1794,7 @@
         ]
       },
       {
+        "id": "tt28356173",
         "name": "Beurk !",
         "url": "https://www.imdb.com/title/tt28356173/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmFlYTYxMjMtOTVkYi00ZjA1LTg5ZTgtMmM5ZDNhZGNhM2Q1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1710,6 +1815,7 @@
     "name": "Best Live Action Short Film",
     "nominees": [
       {
+        "id": "tt27654431",
         "name": "Anuja",
         "url": "https://www.imdb.com/title/tt27654431/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDJlY2FhZDYtMjQ0Yy00OGFkLWFkODQtNmMyMTcwNGZkZjVlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1725,6 +1831,7 @@
         ]
       },
       {
+        "id": "tt15802124",
         "name": "The Last Ranger",
         "url": "https://www.imdb.com/title/tt15802124/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzU3MjllYzUtZWRhOS00OWQ1LWFlZjMtMzA4MjE1YWQyOTc1XkEyXkFqcGc@._V1_QL75_UY414_CR8,0,280,414_.jpg",
@@ -1740,6 +1847,7 @@
         ]
       },
       {
+        "id": "tt27655666",
         "name": "A Lien",
         "url": "https://www.imdb.com/title/tt27655666/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzI2ZWEwZTQtOTBlZS00MmQyLTlkNzMtN2Q5ZDliYTUyOGEwXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
@@ -1755,6 +1863,7 @@
         ]
       },
       {
+        "id": "tt20519854",
         "name": "The Man Who Could Not Remain Silent",
         "url": "https://www.imdb.com/title/tt20519854/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzg2MjNmZmEtOTVjMi00ZTFlLTgwYTAtY2UzODcxY2Y4NDY2XkEyXkFqcGc@._V1_QL75_UY414_CR4,0,280,414_.jpg",
@@ -1770,6 +1879,7 @@
         ]
       },
       {
+        "id": "tt19837932",
         "name": "I'm Not a Robot",
         "url": "https://www.imdb.com/title/tt19837932/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDdlNjEyNjQtMTU0NC00MTFmLThlNDgtYWE4MTBiNGYyNzk0XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
@@ -1790,6 +1900,7 @@
     "name": "Best Documentary Short Film",
     "nominees": [
       {
+        "id": "tt33385063",
         "name": "Death by Numbers",
         "url": "https://www.imdb.com/title/tt33385063/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzcyZTU2YjUtMjNlNS00YmM3LWJmMWEtMGU2NzhkMTBmNDM4XkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
@@ -1805,6 +1916,7 @@
         ]
       },
       {
+        "id": "tt31556921",
         "name": "I am Ready, Warden",
         "url": "https://www.imdb.com/title/tt31556921/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWQwM2YxNzQtZmNkNS00YWJkLWIxYzUtMmJjMmI3ZDQyY2E2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
@@ -1820,6 +1932,7 @@
         ]
       },
       {
+        "id": "tt27990245",
         "name": "Incident",
         "url": "https://www.imdb.com/title/tt27990245/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzQzZjRmNzQtOWQ3Zi00ZjMzLTg1YTgtNTQ2NDlkZDdkMWRiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1835,6 +1948,7 @@
         ]
       },
       {
+        "id": "tt32280470",
         "name": "Instruments of a Beating Heart",
         "url": "https://www.imdb.com/title/tt32280470/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTFhMTAyMDUtYjk3NS00YTVmLTg3MzgtMTIwNzk0MWQ1NTdjXkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
@@ -1850,6 +1964,7 @@
         ]
       },
       {
+        "id": "tt29497240",
         "name": "The Only Girl in the Orchestra",
         "url": "https://www.imdb.com/title/tt29497240/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDVlNmEyMTQtYmJkMi00MDQ0LTljMGYtZDJkYzA0NDdiN2NkXkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
@@ -1870,6 +1985,7 @@
     "name": "Best International Feature Film",
     "nominees": [
       {
+        "id": "tt14961016",
         "name": "I'm Still Here",
         "url": "https://www.imdb.com/title/tt14961016/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZmIxMWVmZDYtODNmNy00YjhkLTg2MmUtOTQxZTI3ZTMxZGYxXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg",
@@ -1880,6 +1996,7 @@
         ]
       },
       {
+        "id": "tt10236164",
         "name": "The Girl with the Needle",
         "url": "https://www.imdb.com/title/tt10236164/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzdhMzMzMjMtOWVmYy00MWExLTlhZTAtYjQyNzY3YTY2ZWJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1890,6 +2007,7 @@
         ]
       },
       {
+        "id": "tt20221436",
         "name": "Emilia Pérez",
         "url": "https://www.imdb.com/title/tt20221436/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
@@ -1900,6 +2018,7 @@
         ]
       },
       {
+        "id": "tt32178949",
         "name": "The Seed of the Sacred Fig",
         "url": "https://www.imdb.com/title/tt32178949/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMmYxMTlmODQtZTUyOS00YWE3LWFjYTktOWU4ZjU3ZGYwZDk2XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
@@ -1910,6 +2029,7 @@
         ]
       },
       {
+        "id": "tt4772188",
         "name": "Flow",
         "url": "https://www.imdb.com/title/tt4772188/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
